@@ -29,10 +29,10 @@ A playful, gamified goal-tracking web app built with **pure Java (Servlets + JDB
 
 ## 🔧 Tech Stack
 
-- **Frontend**: HTML5, CSS3  
-- **Backend**: Java Servlets & JDBC (no external libraries)  
+- **Frontend**: HTML, CSS, Javascript 
+- **Backend**: Node.js + Express
 - **Database**: MySQL  
-- **Development Tools**: IntelliJ IDEA, XAMPP
+- **Version Control**: Git + GitHub
 
 ---
 
